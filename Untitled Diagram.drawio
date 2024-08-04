@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="3uQrsBQyXXnkDU-JymdL">
-    <mxGraphModel dx="1434" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="2868" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="y_IZnH-0-NMXxXeA774X-14" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry width="1000" height="680" as="geometry" />
+          <mxGeometry width="1000" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="YgaL5QnUGG2Cem1xKT0m-126" value="tb_jurusan" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#AF45ED;fontColor=#095C86;fillColor=#F694C1;rounded=1;" parent="y_IZnH-0-NMXxXeA774X-14" vertex="1">
           <mxGeometry x="840" y="40" width="120" height="90" as="geometry" />
