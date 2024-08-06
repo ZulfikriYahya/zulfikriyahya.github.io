@@ -436,12 +436,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w5m4seWRVRQktl6uCzWT" name="SCHEMA DATABASE">
-    <mxGraphModel dx="748" dy="3023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1000" math="1" shadow="0">
+    <mxGraphModel dx="748" dy="3223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1200" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KzGqkAVLB0xyTguzaSZA-1" value="SCHEMA DATABASE" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="2400" y="-1000" width="2400" height="1000" as="geometry" />
+          <mxGeometry x="2400" y="-1200" width="2400" height="1200" as="geometry" />
         </mxCell>
         <mxCell id="KzGqkAVLB0xyTguzaSZA-2" value="surat" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;fillColor=none;swimlaneFillColor=none;rounded=1;shadow=0;swimlaneLine=1;strokeWidth=2;" vertex="1" parent="KzGqkAVLB0xyTguzaSZA-1">
           <mxGeometry x="40" y="51.139999999999986" width="180" height="150" as="geometry" />
