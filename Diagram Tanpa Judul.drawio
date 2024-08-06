@@ -530,7 +530,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D84GNvN_xIacnoe4QG_2-151" value="DAFTAR MENU" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#fad7ac;swimlaneFillColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#b46504;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="920" y="320" width="160" height="356" as="geometry" />
+          <mxGeometry x="1" y="720" width="160" height="446" as="geometry" />
         </mxCell>
         <mxCell id="D84GNvN_xIacnoe4QG_2-156" value="DASHBOARD" style="text;fillColor=#d0cee2;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;swimlaneFillColor=none;strokeColor=#56517e;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-151">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -553,17 +553,26 @@
         <mxCell id="D84GNvN_xIacnoe4QG_2-166" value="Surat Keluar" style="text;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;strokeColor=#10739e;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-151">
           <mxGeometry y="206" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D84GNvN_xIacnoe4QG_2-167" value="ARSIP" style="text;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;swimlaneFillColor=none;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-151">
+        <mxCell id="D84GNvN_xIacnoe4QG_2-167" value="ARSIP" style="text;fillColor=#d0cee2;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;swimlaneFillColor=none;strokeColor=#56517e;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-151">
           <mxGeometry y="236" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D84GNvN_xIacnoe4QG_2-168" value="Surat Masuk" style="text;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;swimlaneFillColor=none;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-151">
+        <mxCell id="D84GNvN_xIacnoe4QG_2-168" value="Surat Masuk" style="text;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;swimlaneFillColor=none;rounded=1;strokeColor=#10739e;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-151">
           <mxGeometry y="266" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D84GNvN_xIacnoe4QG_2-169" value="Surat Keluar" style="text;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;swimlaneFillColor=none;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-151">
+        <mxCell id="D84GNvN_xIacnoe4QG_2-169" value="Surat Keluar" style="text;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;swimlaneFillColor=none;strokeColor=#10739e;rounded=1;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-151">
           <mxGeometry y="296" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D84GNvN_xIacnoe4QG_2-170" value="ARSIP" style="text;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;swimlaneFillColor=none;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-151">
+        <mxCell id="D84GNvN_xIacnoe4QG_2-170" value="KLASIFIKASI SURAT" style="text;fillColor=#d0cee2;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;swimlaneFillColor=none;strokeColor=#56517e;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-151">
           <mxGeometry y="326" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D84GNvN_xIacnoe4QG_2-171" value="PENGATURAN" style="text;fillColor=#d0cee2;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;swimlaneFillColor=none;strokeColor=#56517e;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-151">
+          <mxGeometry y="356" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D84GNvN_xIacnoe4QG_2-172" value="Instansi" style="text;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;swimlaneFillColor=none;strokeColor=#10739e;rounded=1;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-151">
+          <mxGeometry y="386" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D84GNvN_xIacnoe4QG_2-173" value="Pengguna" style="text;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;swimlaneFillColor=none;strokeColor=#10739e;rounded=1;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-151">
+          <mxGeometry y="416" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
