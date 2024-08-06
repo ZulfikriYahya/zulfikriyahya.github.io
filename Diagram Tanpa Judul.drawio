@@ -604,19 +604,19 @@
         <mxCell id="D84GNvN_xIacnoe4QG_2-197" value="Kode" style="text;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-195">
           <mxGeometry y="56" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D84GNvN_xIacnoe4QG_2-198" value="Deskripsi" style="text;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-195">
+        <mxCell id="D84GNvN_xIacnoe4QG_2-200" value="Pengirim" style="text;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-195">
           <mxGeometry y="86" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D84GNvN_xIacnoe4QG_2-200" value="Pengirim" style="text;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-195">
+        <mxCell id="D84GNvN_xIacnoe4QG_2-208" value="Tanggal Surat" style="text;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-195">
           <mxGeometry y="116" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D84GNvN_xIacnoe4QG_2-199" value="File" style="text;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-195">
+        <mxCell id="D84GNvN_xIacnoe4QG_2-201" value="No. Surat" style="text;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-195">
           <mxGeometry y="146" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D84GNvN_xIacnoe4QG_2-201" value="No. Surat" style="text;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-195">
+        <mxCell id="D84GNvN_xIacnoe4QG_2-198" value="Deskripsi" style="text;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-195">
           <mxGeometry y="176" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D84GNvN_xIacnoe4QG_2-208" value="Tanggal Surat" style="text;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-195">
+        <mxCell id="D84GNvN_xIacnoe4QG_2-199" value="File" style="text;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-195">
           <mxGeometry y="206" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D84GNvN_xIacnoe4QG_2-209" value="Aksi" style="text;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;rounded=1;glass=0;" vertex="1" parent="D84GNvN_xIacnoe4QG_2-195">
